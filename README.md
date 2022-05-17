@@ -6,7 +6,7 @@ https://www.vagrantup.com/docs/synced-folders/basic_usage
 https://github.com/tcnksm/vagrant-secret
 
 DO Setup
-https:/ls/www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
 
 Managing Apache
 https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04
@@ -19,7 +19,7 @@ wimby.ca and rails4ios just live under this directory for now
 wndx.com is in _site, which is copied from the wndx.com Jekyll generated stuff
 
 OLD STUFF
-
+```
 vagrant up --provider=digital_ocean
 vagrant ssh
 
@@ -28,3 +28,4 @@ gpasswd -a wndx sudo
 su - wndx
 sudo apt-get update
 sudo apt-get install -y apache2
+```
