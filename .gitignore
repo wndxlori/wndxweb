@@ -1,4 +1,5 @@
-/_site/
-/rails4ios/
-/wimby.ca/
-/.vagrant/secret.yaml
+_site
+rails4ios/
+wimby.ca/
+.vagrant/secret.yaml
+.jekyll-cache
