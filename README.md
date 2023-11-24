@@ -11,6 +11,8 @@ https:/ls/www.digitalocean.com/community/tutorials/initial-server-setup-with-ubu
 Managing Apache
 https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04
 https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name#setting-a-global-servername-directive
+https://www.hirehop.com/blog/cross-domain-fonts-cors-font-face-issue/
+https://zaclee.net/apache/errors-apache/invalid-command-header
 
 Setting up Let's Encrypt
 https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04
